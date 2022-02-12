@@ -46,10 +46,12 @@ font-size: 0.9rem;
     padding-left: 2rem;
     padding-top: 1rem;
     background-color:aqua;
-    padding-bottom: 1.5rem;
     color: white;
     width: 45%;
     height: 45%;
+    border-bottom-left-radius: 0.8rem;
+    padding-bottom: 1.5rem;
+
 }
 
 .box2 {
@@ -61,15 +63,17 @@ font-size: 0.9rem;
     position: absolute;
     top: 42%;
     left: 49.5%;
-    padding-bottom: 1.5rem;
     color: white;
+    border-bottom-right-radius: 0.8rem;
+    padding-bottom: 1.5rem;
+
     
 }
 
 
 
 .btn-lg{
-    height: 5rem
+    height: 6rem
     border-radius: 0.5rem;
     background-color:rgb(35, 226, 35) ;
     padding: 0.5rem;

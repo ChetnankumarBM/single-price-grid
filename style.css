@@ -32,7 +32,7 @@ body{
 }
 
 .main h6{
-
+font-size: 0.9rem;
     line-height: 1rem;
     color:grey;
 }
@@ -46,7 +46,8 @@ body{
     padding-left: 2rem;
     padding-top: 1rem;
     background-color:aqua;
-    
+    padding-bottom: 1.5rem;
+    color: white;
     width: 45%;
     height: 45%;
 }
@@ -54,12 +55,14 @@ body{
 .box2 {
     padding-left: 1.5rem;
     padding-top: 1rem;
-    background-color:rgb(67, 155, 155);
+    background-color:rgb(69, 233, 233);
     width: 23.5%;
     height: 29%;
     position: absolute;
-    top: 39.5%;
+    top: 42%;
     left: 49.5%;
+    padding-bottom: 1.5rem;
+    color: white;
     
 }
 

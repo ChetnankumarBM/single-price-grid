@@ -6,5 +6,86 @@
 
 body{
     font-family: sans-serif;
-    background-color: blue;
+    background-color: rgb(27, 233, 171);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+.main{
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+.main h3{
+
+    color:rgb(19, 112, 204);
+    font-size: 1.5rem;
+}
+
+.main h5{
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    color:rgb(35, 226, 35);
+    font-size: 1rem;
+}
+
+.main h6{
+
+    line-height: 1rem;
+    color:grey;
+}
+
+.headr{
+
+    padding-top: 1rem;
+    } 
+
+  .box1 {
+    padding-left: 2rem;
+    padding-top: 1rem;
+    background-color:aqua;
+    
+    width: 45%;
+    height: 45%;
+}
+
+.box2 {
+    padding-left: 1.5rem;
+    padding-top: 1rem;
+    background-color:rgb(67, 155, 155);
+    width: 23.5%;
+    height: 29%;
+    position: absolute;
+    top: 39.5%;
+    left: 49.5%;
+    
+}
+
+
+
+.btn-lg{
+    height: 5rem
+    border-radius: 0.5rem;
+    background-color:rgb(35, 226, 35) ;
+    padding: 0.5rem;
+    width: 12rem;
+}
+
+nav{
+background-color: white;
+width: 50%;
+height: 100%;
+border-radius: 1rem;
+
+
+}
+
+p{
+    font-size: 13px;
+    font-family: sans-serif;
+    padding: 0.5rem;
+    line-height: 1rem;
+}
+
